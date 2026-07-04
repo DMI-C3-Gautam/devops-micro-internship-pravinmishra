@@ -1,115 +1,69 @@
-# Assignment 1 — Your First Agentic Session
+# Week 04 — <!-- Topic Name -->
 
-Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
+## Assignment Overview
 
----
-
-## Purpose
-
-In this assignment, you will set up your local development environment for Agentic AI using Claude Code. You will install and authenticate Claude Code CLI, configure the VS Code extension, fork and clone the starter repository, and observe how the Agentic Loop (Gather → Act → Verify) works in practice.
+<!-- One line describing what this week covered -->
 
 ---
 
-# Task 1 — Install Claude Code
+## Task 1: Install Claude Code
 
-## Goal
+**Task:** Install the Claude Code CLI globally and authenticate with your Anthropic account.
 
-Install the Claude Code CLI globally and authenticate it using your Anthropic account.
+**My Answer:**
 
-### Evidence
+<!-- Write your answer here -->
 
-#### Screenshot 1 — Claude Code version check
+**Screenshot:**
 
-Add your screenshot here.
-
----
-
-#### Screenshot 2 — Claude Code authenticated in terminal
-
-Add your screenshot here.
+![Task 1](./screenshots/claude.jpg)
+![Task 2](./screenshots/claude1.jpg)
 
 ---
 
-# Task 2 — Fork and Clone the Starter Repository
+## Task 2: Fork and Clone the Starter Repository
 
-## Goal
+**Task:** Get your own copy of the course project onto your machine.
 
-Fork the provided GitHub repository, clone it to your local machine, and open it in VS Code.
+**My Answer:**
 
-### Evidence
+<!-- Write your answer here -->
 
-#### Screenshot 3 — Project opened in VS Code
+**Screenshot:**
 
-Add your screenshot here.
-
----
-
-# Task 3 — Observe the Agentic Loop
-
-## Goal
-
-Interact with Claude Code and observe how it performs the Agentic Loop (Gather → Act → Verify) while answering project-related questions.
-
-### Evidence
-
-#### Screenshot 4 — Claude reading project files and responding
-
-Add your screenshot here.
+![Task 3](./screenshots/repo.jpg)
 
 ---
 
-#### Screenshot 5 — Claude executing command to count CSS lines
+## Task 3: Observe the Agentic Loop
 
-Add your screenshot here.
+**Task:** Watch Claude Code work through Gather → Act → Verify on two real tasks.
 
----
+**My Answer:**
 
-# Submission Instructions
+<!-- Write your answer here -->
 
-- Add all required screenshots in your GitHub repository submission
-- Push your completed work to your forked repository
-- Submit your GitHub repository URL below
+**Screenshot:**
 
----
-
-## GitHub Repository URL
-
-Paste your forked repository URL here:
-
-`__________________________`
+![Task 4](./screenshots/screenshot4.jpg)
+![Task 5](./screenshots/screenshot5.jpg)
 
 ---
 
-# Completion Checklist
+## Task 4: LinkedIn Post
 
-- [ ] Claude Code CLI installed successfully
-- [ ] Claude Code authenticated successfully
-- [ ] VS Code extension installed and working
-- [ ] Repository forked successfully
-- [ ] Repository cloned and opened in VS Code
-- [ ] All required screenshots added
-- [ ] GitHub repository URL provided
+**Post:** <!-- Paste your LinkedIn post URL here -->
 
 ---
 
-## 📌 About DMI & CloudAdvisory
+## Key Learnings
 
-DevOps Micro Internship (DMI) is a project-based DevOps program run by Pravin Mishra (The CloudAdvisory) focused on real-world execution, systems thinking, and career readiness.
+<!-- 3-5 bullet points on what you learned this week -->
 
-It helps learners build strong DevOps foundations with hands-on experience.
-
----
-
-## 📌 Resources
-
-- 🌐 DMI Official Website: https://pravinmishra.com/dmi  
-- 🎓 DevOps for Beginners (Udemy): https://www.udemy.com/course/devops-for-beginners-docker-k8s-cloud-cicd-4-projects/  
-- 🎓 Agentic AI DevOps with Claude Code: https://www.udemy.com/course/ultimate-agentic-ai-devops-with-claude-code/  
-- 🎓 DevOps with Claude Code: Terraform, EKS, ArgoCD & Helm: https://www.udemy.com/course/devops-with-claude-code-terraform-eks-argocd-helm/  
-- ▶️ YouTube Playlist: https://www.youtube.com/playlist?list=PLFeSNDtI4Cho  
-- 🔗 Pravin Mishra (LinkedIn): https://www.linkedin.com/in/pravin-mishra-aws-trainer/  
-- 🏢 CloudAdvisory (LinkedIn): https://www.linkedin.com/company/thecloudadvisory/
+- set up claude
+- how to use claude
+- configuration 
 
 ---
 
-*This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track.*
+*Part of the [DevOps Micro Internship with Agentic AI](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) by Pravin Mishra — Join: https://discord.pravinmishra.com/*
