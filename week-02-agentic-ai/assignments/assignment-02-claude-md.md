@@ -65,7 +65,7 @@ Each task must be completed sequentially.
 
 **Steps:**
 1. Open Claude Code in your project
-2. Confirm there is no CLAUDE.md file (the project should only have `index.html`, `style.css`, `images/`)
+2. Confirm there is no CLAUDE.md file (the project should only have `index.html`, `style.css`, `images/`, `README.MD`, `privacy.html`, `terms.html`)
 3. Ask this exact question: `"What is this project and how should I deploy it?"`
 4. Screenshot the response — it will be generic and vague
 
@@ -78,6 +78,7 @@ What is this project and how should I deploy it?
 
 **Screenshots Required:**
 <<<<<<< HEAD
+<<<<<<< HEAD
 - Screenshot 1 — Claude's vague response to the question (no CLAUDE.md in place)
 <<<<<<< HEAD
 ![Task 1](./screenshots/screenshot21.jpg)
@@ -85,6 +86,9 @@ What is this project and how should I deploy it?
 =======
 - Screenshot 1 — Claude’s generic response before CLAUDE.md exists (project contains only index.html, style.css and images/)
 >>>>>>> 5ce8ea8 (Assignment templates updated)
+=======
+- Screenshot 1 — Claude’s generic response before CLAUDE.md exists (project contains only `index.html`, `style.css`, `images/`, `README.MD`, `privacy.html`, `terms.html`)
+>>>>>>> 6103b6c (Updated week 02 assignment 02 assignment and solution template)
 
 >>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
 ---
