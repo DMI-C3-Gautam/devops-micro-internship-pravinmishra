@@ -166,6 +166,7 @@ Your submission must include:
 ## 10. Solution Walkthrough
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 A step-by-step solution and troubleshooting guide is available for reference:
 <<<<<<< HEAD
 Full solution walkthrough → (LINK)
@@ -191,6 +192,11 @@ Full solution walkthrough → (LINK)
 =======
 A step-by-step solution and troubleshooting guide will be provided.
 >>>>>>> 5ce8ea8 (Assignment templates updated)
+=======
+A step-by-step solution and troubleshooting guide is available for reference:
+Full solution walkthrough → [Click here](../Solutions_walkthrough/assignment-01-setup-agentic-loop.md)
+
+>>>>>>> 725c54d (Updated assignment solution- week 02 assignment 02)
 
 ---
 

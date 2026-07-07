@@ -185,7 +185,7 @@ Follow the Assignment Submission Guidelines — (LINK)
 ## 10. Solution Walkthrough
 
 A step-by-step solution and troubleshooting guide is available for reference:
-Full solution walkthrough → (LINK)
+Full solution walkthrough → [Click here](../Solutions_walkthrough/assignment-03-skills.md)
 
 ---
 
@@ -219,6 +219,7 @@ Before submission, verify:
 - [ ] Skills committed and visible in GitHub repo
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 
 ## 13. Final Submission
@@ -226,3 +227,5 @@ Before submission, verify:
 Submit your assignment using this google form.
 =======
 >>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
+=======
+>>>>>>> 725c54d (Updated assignment solution- week 02 assignment 02)

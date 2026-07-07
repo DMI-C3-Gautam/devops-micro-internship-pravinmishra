@@ -247,10 +247,14 @@ Follow the Assignment Submission Guidelines — (LINK)
 
 A step-by-step solution and troubleshooting guide is available for reference:
 <<<<<<< HEAD
+<<<<<<< HEAD
 Full solution walkthrough → [LINK](https://github.com/DMI-C3-Gautam/Ultimate-Agentic-DevOps-with-Claude-Code.git)
 =======
 Full solution walkthrough → (LINK)
 >>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
+=======
+Full solution walkthrough → [Click here](../Solutions_walkthrough/assignment-02-claude-md.md)
+>>>>>>> 725c54d (Updated assignment solution- week 02 assignment 02)
 
 ---
 
