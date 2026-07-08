@@ -534,7 +534,6 @@ Complete all tasks in sequence.
 
 Your submission must include:
 - All 9 required screenshots
-- Your GitHub repo URL (`settings.json` and hooks folder committed and visible)
 
 <<<<<<< HEAD
 Submit only a Google Doc link.
@@ -574,7 +573,6 @@ Before submission, verify:
 - [ ] Terraform destroy command test shows PreToolUse intercepted the command
 - [ ] Terraform validate test shows PostToolUse created the log entry
 - [ ] All required screenshots are captured
-- [ ] `.claude/settings.json` and `.claude/hooks/` files are committed and visible in the GitHub repository
 
 
 <<<<<<< HEAD
