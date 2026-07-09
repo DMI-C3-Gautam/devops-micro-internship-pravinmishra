@@ -182,7 +182,9 @@ Follow the Assignment Submission Guidelines — (LINK)
 
 ## 10. Solution Walkthrough
 
-A step-by-step solution and troubleshooting guide is provided.
+A step-by-step solution and troubleshooting guide is available for reference:
+Full solution walkthrough → [Click here](../Solutions_walkthrough/assignment-07-memory.md)
+
 
 ---
 
