@@ -133,7 +133,7 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ✅ Completed | ✅ Completed | ⏳ Pending |⏳ Pending |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | ⏳ Pending |⏳ Pending |
 | 01 | Success Mindset | ✅ Completed | ✅ Solved | 🔄 In Progress | 🔄 In Progress |
 | 02 | Agentic AI with Claude Code | ✅ Completed | 🔄 In Progress | — | — |
 | 03 | Linux for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
