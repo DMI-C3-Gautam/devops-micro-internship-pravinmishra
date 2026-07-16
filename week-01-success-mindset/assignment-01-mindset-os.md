@@ -144,7 +144,7 @@ If I see last past few years fron now, I can say, it was amazing journey what I 
 
 Paste your link here:
 
-`__________________________`
+`Add your URL here`
 
 ---
 
@@ -347,7 +347,7 @@ Add your answer here...
 
 Paste your LinkedIn post link here:
 
-`__________________________`
+`Add your URL here`
 
 ---
 
