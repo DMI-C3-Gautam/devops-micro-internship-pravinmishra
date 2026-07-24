@@ -13,11 +13,11 @@ Complete all tasks below and update your [progress tracker](../README.md).
 
 **What I did:**
 
-<!-- Write 2-3 sentences describing what you configured on your profile -->
+I have added linkedIN profile. I have added location. some status changes. displaying Achievements 
 
 **Screenshot:**
 
-![GitHub Profile](./screenshots/task1-github-profile.png)
+![GitHub Profile](./screenshots/1.jpg)
 
 ---
 
