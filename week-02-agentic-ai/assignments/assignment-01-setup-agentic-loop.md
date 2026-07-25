@@ -163,6 +163,7 @@ Your submission must include:
 
 ## 10. Solution Walkthrough
 
+<<<<<<< HEAD
 A step-by-step solution and troubleshooting guide is available for reference:
 <<<<<<< HEAD
 Full solution walkthrough → (LINK)
@@ -185,6 +186,9 @@ Submit your assignment using this google form.
 =======
 
 Full solution walkthrough → (LINK)
+=======
+A step-by-step solution and troubleshooting guide will be provided.
+>>>>>>> 5ce8ea8 (Assignment templates updated)
 
 ---
 

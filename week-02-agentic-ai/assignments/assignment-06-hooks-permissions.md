@@ -159,7 +159,7 @@ Each task must be completed sequentially.
 **Expected Output:** `settings.json` now has all three sections: `permissions`, `UserPromptSubmit` hook, and `PreToolUse` hook.
 
 **Screenshots Required:**
-- Screenshot 3 — Full `settings.json` showing all three sections complete
+- Screenshot 3 — Full `settings.json` showing all three sections complete 
 
 ---
 
@@ -230,8 +230,7 @@ Follow the Assignment Submission Guidelines — (LINK)
 
 ## 10. Solution Walkthrough
 
-A step-by-step solution and troubleshooting guide is available for reference:
-Full solution walkthrough → (LINK)
+A step-by-step solution and troubleshooting guide is available for reference will be provided. 
 
 ---
 
@@ -252,11 +251,13 @@ Before submission, verify:
 <<<<<<< HEAD
 - [ ] `settings.json` committed and visible in GitHub repo
 
----
 
+<<<<<<< HEAD
 ## 13. Final Submission
 
 Submit your assignment using this google form.
 =======
 - [ ] `settings.json` committed and visible in GitHub repo
 >>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
+=======
+>>>>>>> 5ce8ea8 (Assignment templates updated)
