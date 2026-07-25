@@ -106,17 +106,14 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ## Technologies Used
 
-### Frontend
+Frontend
+HTML – Creates the structure and content of web pages. CSS – Styles the website by adding colors, layouts, and fonts. JavaScript – Adds interactivity and dynamic features to the website.
 
-HTML, CSS, Javascript, React, Angular, Vue
+Backend
+Node.js – Runs JavaScript on the server to handle requests and business logic. Express.js – A Node.js framework used to build APIs and manage server-side routing.
 
-### Backend
-
-Java, Spring Boot, Python, Node.js, .NET
-
-### Database
-
-MySQL, PostgreSQL, MongoDB
+Database
+MongoDB – A NoSQL database that stores data in flexible JSON-like documents. MySQL – A relational database that stores data in tables using SQL for querying and management.
 
 ---
 
@@ -187,7 +184,6 @@ Save your screenshot in the `screenshots` folder and update the file name below.
 
 Replace `task-5-vscode.png` with your actual screenshot file name.
 
----
 
 # 🔗 Task 6: Publish Your Assignment as a LinkedIn Post
 
