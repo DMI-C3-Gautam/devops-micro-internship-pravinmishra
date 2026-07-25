@@ -34,11 +34,8 @@ On real engineering teams, every new team member reads the onboarding doc before
 
 ## 5. Important Instructions (Global Rules)
 
-<<<<<<< HEAD
 Follow the Assignment Submission Guidelines — Click here
 
-=======
->>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
 **Key Rules:**
 - Full name must be visible in required screenshots
 - Do not expose sensitive information (keys, passwords, account IDs)
@@ -178,6 +175,43 @@ Add a React component to the homepage.
 =======
 - Screenshot 4 — Claude's specific, detailed answer after reading CLAUDE.md (Claude mentioning S3, CloudFront and Terraform)
 - Screenshot 5 — Claude refusing or warning against adding React because of the "No JavaScript" convention defined in CLAUDE.md
+
+---
+
+### Task 5 — Commit and push your changes to your fork in GitHub
+
+**Goal:** Commit the `CLAUDE.md` file and push it to your GitHub fork so the project instructions are version-controlled.
+
+**Steps:**
+
+1. Check the Git status to verify that `CLAUDE.md` has been created or modified
+
+2. Stage the changes (`git add .`)
+
+3. Commit the changes with a meaningful commit message
+
+4. Push the commit to your GitHub fork
+
+5. Open your GitHub repository in the browser and verify that `CLAUDE.md` is visible in the repository root
+
+
+**Commands (Terminal):**
+
+```bash
+
+git status
+git add CLAUDE.md
+git commit -m "Add project-specific CLAUDE.md"
+git push origin main
+
+```
+
+**Expected Output:** The `CLAUDE.md` file is committed, pushed to your GitHub fork, and visible in the repository.
+
+
+**Screenshots Required:**
+
+- Screenshot 6 — `CLAUDE.md` visible in your GitHub repository after pushing the commit
 >>>>>>> 5ce8ea8 (Assignment templates updated)
 
 >>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
@@ -222,7 +256,7 @@ Not required for this assignment.
 
 ---
 
-## 12. Completion Checklist
+### 12. Completion Checklist
 
 Before submission, verify:
 <<<<<<< HEAD
