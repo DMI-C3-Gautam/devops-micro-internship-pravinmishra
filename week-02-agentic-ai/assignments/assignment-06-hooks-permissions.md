@@ -35,8 +35,11 @@ On real infrastructure teams, no engineer gives AI unrestricted access to produc
 
 ## 5. Important Instructions (Global Rules)
 
+<<<<<<< HEAD
 Follow the Assignment Submission Guidelines — Click here
 
+=======
+>>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
 **Key Rules:**
 - Full name must be visible in required screenshots
 - Do not expose sensitive information (keys, passwords, account IDs)
@@ -217,9 +220,12 @@ Your submission must include:
 - All 5 required screenshots
 - Your GitHub repo URL (`settings.json` committed and visible)
 
+<<<<<<< HEAD
 Submit only a Google Doc link.
 Follow the Assignment Submission Guidelines — (LINK)
 
+=======
+>>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
 ---
 
 ## 10. Solution Walkthrough
@@ -243,6 +249,7 @@ Before submission, verify:
 - [ ] PreToolUse hook added and visible in screenshot
 - [ ] Destructive prompt test shows Claude was blocked (Screenshot 4)
 - [ ] Terraform destroy command test shows it was intercepted (Screenshot 5)
+<<<<<<< HEAD
 - [ ] `settings.json` committed and visible in GitHub repo
 
 ---
@@ -250,3 +257,6 @@ Before submission, verify:
 ## 13. Final Submission
 
 Submit your assignment using this google form.
+=======
+- [ ] `settings.json` committed and visible in GitHub repo
+>>>>>>> 841703c (Updated week 02 assignment guidelines and templates)

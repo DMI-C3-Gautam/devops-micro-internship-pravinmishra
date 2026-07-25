@@ -34,8 +34,11 @@ On real engineering teams, every new team member reads the onboarding doc before
 
 ## 5. Important Instructions (Global Rules)
 
+<<<<<<< HEAD
 Follow the Assignment Submission Guidelines — Click here
 
+=======
+>>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
 **Key Rules:**
 - Full name must be visible in required screenshots
 - Do not expose sensitive information (keys, passwords, account IDs)
@@ -78,7 +81,11 @@ What is this project and how should I deploy it?
 
 **Screenshots Required:**
 - Screenshot 1 — Claude's vague response to the question (no CLAUDE.md in place)
+<<<<<<< HEAD
 ![Task 1](./screenshots/screenshot21.jpg)
+=======
+
+>>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
 ---
 
 ### Task 2 — Generate the First Draft with /init
@@ -99,7 +106,11 @@ What is this project and how should I deploy it?
 
 **Screenshots Required:**
 - Screenshot 2 — The auto-generated CLAUDE.md open in VS Code showing its content
+<<<<<<< HEAD
 ![Task 2](./screenshots/screenshot22.jpg)
+=======
+
+>>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
 ---
 
 ### Task 3 — Customize the CLAUDE.md
@@ -125,7 +136,11 @@ What is this project and how should I deploy it?
 
 **Screenshots Required:**
 - Screenshot 3 — Your customized CLAUDE.md in VS Code showing all 5 sections (scroll to show the full file)
+<<<<<<< HEAD
 ![Task 3](/week-02-agentic-ai/screenshots/screenshot23.jpg)
+=======
+
+>>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
 ---
 
 ### Task 4 — Test the After State
@@ -151,8 +166,12 @@ Add a React component to the homepage.
 **Screenshots Required:**
 - Screenshot 4 — Claude's specific, detailed answer after reading CLAUDE.md
 - Screenshot 5 — Claude pushing back on the React request, citing the convention
+<<<<<<< HEAD
 ![Task 4](./screenshots/screenshot24.jpg)
 ![Task 5](./screenshots/screenshot25.jpg)
+=======
+
+>>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
 ---
 
 ## 8. Industry Insight
@@ -169,15 +188,22 @@ Your submission must include:
 - All 5 required screenshots
 - Your GitHub repo URL (CLAUDE.md should be committed)
 
+<<<<<<< HEAD
 Submit only a Google Doc link.
 Follow the Assignment Submission Guidelines — (LINK)
 
+=======
+>>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
 ---
 
 ## 10. Solution Walkthrough
 
 A step-by-step solution and troubleshooting guide is available for reference:
+<<<<<<< HEAD
 Full solution walkthrough → [LINK](https://github.com/DMI-C3-Gautam/Ultimate-Agentic-DevOps-with-Claude-Code.git)
+=======
+Full solution walkthrough → (LINK)
+>>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
 
 ---
 
@@ -190,6 +216,7 @@ Not required for this assignment.
 ## 12. Completion Checklist
 
 Before submission, verify:
+<<<<<<< HEAD
 - [x] Screenshot 1 shows a generic Claude response (no CLAUDE.md)
 - [x] Screenshot 2 shows the auto-generated `/init` output
 - [x] Screenshot 3 shows all 5 sections in your customized CLAUDE.md
@@ -202,3 +229,15 @@ Before submission, verify:
 ## 13. Final Submission
 
 Submit your assignment using this google form.
+=======
+- [ ] Screenshot 1 shows a generic Claude response (no CLAUDE.md)
+- [ ] Screenshot 2 shows the auto-generated `/init` output
+- [ ] Screenshot 3 shows all 5 sections in your customized CLAUDE.md
+- [ ] Screenshot 4 shows Claude mentioning S3, CloudFront, and Terraform
+- [ ] Screenshot 5 shows Claude refusing the React request
+- [ ] CLAUDE.md is committed and visible in your GitHub repo
+
+---
+
+
+>>>>>>> 841703c (Updated week 02 assignment guidelines and templates)

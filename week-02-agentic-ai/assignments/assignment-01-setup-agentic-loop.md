@@ -35,8 +35,11 @@ Every DevOps engineer working with agentic AI starts the same way — setting up
 
 ## 5. Important Instructions (Global Rules)
 
+<<<<<<< HEAD
 Follow the Assignment Submission Guidelines — Click here
 
+=======
+>>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
 **Key Rules:**
 - Full name must be visible in required screenshots
 - Do not expose sensitive information (keys, passwords, account IDs)
@@ -151,12 +154,17 @@ Complete all tasks in sequence.
 Your submission must include:
 - All 5 required screenshots
 - Your GitHub forked repository URL
+<<<<<<< HEAD
 [forked link](https://github.com/DMI-C3-Gautam/Ultimate-Agentic-DevOps-with-Claude-Code)
+=======
+
+>>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
 ---
 
 ## 10. Solution Walkthrough
 
 A step-by-step solution and troubleshooting guide is available for reference:
+<<<<<<< HEAD
 Full solution walkthrough → (LINK)
 
 ## 11. Completion Checklist
@@ -174,3 +182,27 @@ Before submission, verify:
 ## 12. Final Submission
 
 Submit your assignment using this google form. 
+=======
+
+Full solution walkthrough → (LINK)
+
+---
+
+## 11. LinkedIn Requirement
+
+Not required for this assignment.
+
+---
+
+## 12. Completion Checklist
+
+Before submission, verify:
+- [ ] Claude Code CLI installed and `claude --version` works
+- [ ] Claude Code authenticated — opens without asking for login again
+- [ ] VS Code extension installed and Claude Code panel visible
+- [ ] Starter repo forked and cloned
+- [ ] All 5 screenshots captured and added to your GitHub Repository file
+- [ ] GitHub repo URL included
+
+---
+>>>>>>> 841703c (Updated week 02 assignment guidelines and templates)

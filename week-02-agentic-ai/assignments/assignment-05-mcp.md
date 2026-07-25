@@ -35,8 +35,11 @@ Without MCP, Claude works from training data — which can be months old and kno
 
 ## 5. Important Instructions (Global Rules)
 
+<<<<<<< HEAD
 Follow the Assignment Submission Guidelines — Click here
 
+=======
+>>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
 **Key Rules:**
 - Full name must be visible in required screenshots
 - Do **not** expose your GitHub token in any screenshot — blur or hide the token value
@@ -196,9 +199,12 @@ Your submission must include:
 - A note confirming `settings.local.json` is in your `.gitignore`
 - Your GitHub repo URL (`.mcp.json` committed and visible, `settings.local.json` NOT committed)
 
+<<<<<<< HEAD
 Submit only a Google Doc link.
 Follow the Assignment Submission Guidelines — (LINK)
 
+=======
+>>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
 ---
 
 ## 10. Solution Walkthrough
@@ -226,7 +232,10 @@ Before submission, verify:
 - [ ] `.mcp.json` committed and visible in GitHub repo
 
 ---
+<<<<<<< HEAD
 
 ## 13. Final Submission
 
 Submit your assignment using this google form.
+=======
+>>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
