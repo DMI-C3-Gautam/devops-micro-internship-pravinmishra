@@ -127,12 +127,12 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | — | https://dmicohort3.blogspot.com/2026/07/week-1.html |
-| 01 | Success Mindset | ✅ Completed | ✅ Solved | — | — |
-| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
-| 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
-| 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
-| 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | — | https://dmicohort3.blogspot.com/2026/07/week-0.html |
+| 01 | Success Mindset | ✅ Completed | ✅ Solved | — | https://dmicohort3.blogspot.com/2026/07/week-1.html |
+| 02 | Agentic AI with Claude Code | 🔄 In Progress | ⏳ Pending | — | https://dmicohort3.blogspot.com/2026/07/week-2.html |
+| 03 | Linux & Bash for DevOps | 🔄 In Progress | ⏳ Pending | — | https://dmicohort3.blogspot.com/2026/07/week-3.html |
+| 04 | Git & GitHub | 🔄 In Progress | ⏳ Pending | — | https://dmicohort3.blogspot.com/2026/07/week-4.html |
+| 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | https://dmicohort3.blogspot.com/2026/07/blog-post.html |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
