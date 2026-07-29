@@ -206,12 +206,12 @@ Choose books that improve:
 2. Start with yourself 
 3. Hooked
 4. Resilience
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+5. Getting Things Done (GTD) by David Allen
+6. Dare to Lead: Brave Work. Tough Conversations. Whole Hearts. by Bren Brown
+7. The Power of Habit: Why We Do What We Do in Life and Business by Charles Duhigg
+8. The Mountain Is You by Brianna Wiest
+9. The Let Them Theory by Mel Robbins
+10. AThe Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever by Michael Bungay Stanier
 
 ---
 
@@ -335,7 +335,7 @@ stop after finding blockage
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+sleep after finished tasks
 
 ### LinkedIn Post
 
