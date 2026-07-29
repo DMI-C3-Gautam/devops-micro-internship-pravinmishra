@@ -19,7 +19,6 @@
 ---
 
 ## IMPORTANT FOR LINKEDIN AND BLOG POSTS - Always add the below line and the hashtags
-## IMPORTANT FOR LINKEDIN AND BLOG POSTS - Always add the below line and the hashtags
 
 **For LinkedIn posts:**
 
@@ -41,8 +40,6 @@ Pravin Mishra [Linkedin profile](https://www.linkedin.com/in/pravin-mishra-aws-t
 |-------|-----------|
 | Lead Co-Mentor | [Anjana Muthunayake](https://www.linkedin.com/in/anjana-muthunayake/) |
 | Group-1 Comentors | [Tanisha Borana](https://www.linkedin.com/in/tanisha-borana-552797233/), [Anuradha Iyer](https://www.linkedin.com/in/iyeranuradha/) |
-| Group-2 Comentors | [Anjana Muthunayake](https://www.linkedin.com/in/anjana-muthunayake/), [Joy Ukpabi](https://www.linkedin.com/in/joyukpabi/) |
-| Group-3 Comentors | [Bhupendra Bhati](https://www.linkedin.com/in/bhupendrabhati/), [Ranbir Kaur](https://www.linkedin.com/in/ranbirkaur/) |
 | Group-2 Comentors | [Anjana Muthunayake](https://www.linkedin.com/in/anjana-muthunayake/), [Joy Ukpabi](https://www.linkedin.com/in/joyukpabi/) |
 | Group-3 Comentors | [Bhupendra Bhati](https://www.linkedin.com/in/bhupendrabhati/), [Ranbir Kaur](https://www.linkedin.com/in/ranbirkaur/) |
 
@@ -115,7 +112,7 @@ Attendance is worth **10 points** for each Saturday session:
 
 You can earn a maximum of **30 attendance points per week**.
 
-**Note:** Attendance grading begins in **Week 4**. **Weeks 1–3 do not include attendance points.**
+**Note:** Attendance grading begins in **Week 2**. **Weeks 0–1 do not include attendance points.**
 
 ### 6. Screenshots
 
@@ -157,22 +154,6 @@ Week-1 is **one assignment file** (`assignment-01-mindset-os.md`) containing 7 r
 | LinkedIn post | 10 |
 | Blog post (any topic of your choice) | 30 |
 | **Total** | **60** |
-Week-1 is **one assignment file** (`assignment-01-mindset-os.md`) containing 7 reflection prompts — all 7 must be genuinely filled in for the file to pass:
-
-1. What is something you believe to be true that most people around you would disagree with?
-2. What are the top 3 objective truths you discovered through experimentation and results?
-3. What does your 2.0 version look like?
-4. Have you ever cut corners (unethical / dishonest / shortcut behavior — not necessarily illegal)? If yes, how did it make you feel?
-5. What are 10 non-fiction books you plan to read in the next 1 year?
-6. What are the things you will measure regularly in your life and career?
-7. Brain dump + 5-month system plan
-
-| Item | Points |
-|------|:------:|
-| Assignment file (all 7 prompts, pass/fail) | 20 |
-| LinkedIn post | 10 |
-| Blog post (any topic of your choice) | 30 |
-| **Total** | **60** |
 
 
 ---
@@ -183,7 +164,7 @@ Week-1 is **one assignment file** (`assignment-01-mindset-os.md`) containing 7 r
 
 | S. No. | Item                                | Comments                                                                                         | Link                                                    |
 | ------ | ----------------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------- |
-| 1 | Week-2 Class Recording | ⚠️ Link needs fixing — this currently points to the same video as the Week-1 recording above | [YouTube](https://youtube.com/live/nxFy-HoDqu4?feature=share) |
+| 1 | Week-2 Class Recording | Watch the recording of the week-2 live class on YouTube | [YouTube](https://youtube.com/live/rCtwsHFPirw?feature=share) |
 
 
 ---
@@ -195,21 +176,7 @@ Week-1 is **one assignment file** (`assignment-01-mindset-os.md`) containing 7 r
 * **Assignment Submission Form:**: [Click here](https://forms.gle/GLC4HaBugrQCDaxK7)
 
 Week-2 is **8 assignment files**, each graded pass/fail:
-Week-2 is **8 assignment files**, each graded pass/fail:
 
-| Assignment   | Name                                          | Points |
-| ------------ | ---------------------------------------------- | :----: |
-| Assignment-1 | Your First Agentic Session                     | 20     |
-| Assignment-2 | Teaching Claude Your Project (CLAUDE.md)       | 20     |
-| Assignment-3 | Building Your Command Center (Skills)          | 20     |
-| Assignment-4 | Building Your AI Team (Subagents)              | 20     |
-| Assignment-5 | Connecting Claude to the Outside World (MCP)   | 20     |
-| Assignment-6 | Safety Rails for Your AI Agent                 | 20     |
-| Assignment-7 | A Claude That Remembers (Memory)               | 20     |
-| Assignment-8 | Week 2 Reflection Blog                         | 20     |
-| — | LinkedIn post                                             | 10     |
-| — | Blog post                                                  | 30     |
-| **Total** | | **200** |
 | Assignment   | Name                                          | Points |
 | ------------ | ---------------------------------------------- | :----: |
 | Assignment-1 | Your First Agentic Session                     | 20     |

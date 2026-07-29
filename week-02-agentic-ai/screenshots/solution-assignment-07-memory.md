@@ -35,8 +35,6 @@ Every time you open a new Claude Code session, Claude starts completely fresh �
 
 ## 5. Important Instructions (Global Rules)
 
-Follow the Assignment Submission Guidelines — Click here
-
 **Key Rules:**
 - Full name must be visible in required screenshots
 - Do not expose sensitive information (keys, passwords, account IDs)
@@ -77,7 +75,7 @@ Where does your memory file live for this project? Show me the full path.
 **Expected Output:** Claude gives you the full absolute path to the `MEMORY.md` file. The file may be empty or not yet exist — that is fine.
 
 **Screenshots Required:**
-- Screenshot 1 — Claude's response showing the full memory file path
+- Screenshot 1 — Memory file path shown by Claude
 
 ---
 
@@ -150,8 +148,8 @@ Should I add a JavaScript animation to the hero section?
 - Question 3: Claude refuses the JavaScript request — citing the memory rule
 
 **Screenshots Required:**
-- Screenshot 5 — Claude recalling the hero section colors correctly in the new session
-- Screenshot 6 — Claude refusing to add JavaScript (memory rule enforced in the new session)
+- Screenshot 5 — Claude recalling hero section colors
+- Screenshot 6 — Claude refusing JavaScript request based on memory rule
 
 ---
 
@@ -168,16 +166,14 @@ Complete all tasks in sequence.
 Your submission must include:
 - All 6 required screenshots
 - Your GitHub repo URL
-
-Submit only a Google Doc link.
-Follow the Assignment Submission Guidelines — (LINK)
-
+- 
 ---
 
 ## 10. Solution Walkthrough
 
 A step-by-step solution and troubleshooting guide is available for reference:
-Full solution walkthrough → (LINK)
+Full solution walkthrough → [Click here](../assignment-solutions/assignment-07-memory.md)
+
 
 ---
 
@@ -186,7 +182,7 @@ Full solution walkthrough → (LINK)
 Create a LinkedIn post including:
 - Screenshot 5 or 6 — Claude recalling information in a brand new session
 - Caption: "My AI agent just remembered a project decision from a previous session — without me repeating it. This is what professional agentic DevOps looks like."
-- Tag: #DMIProgram #AgenticAI #ClaudeCode #DevOps
+- Tag: #DMIByPravinMishra #AgenticAI #ClaudeCode #DevOps
 
 **Submit:**
 - LinkedIn post URL
@@ -202,10 +198,5 @@ Before submission, verify:
 - [ ] Session fully closed and fresh session opened (Screenshot 4)
 - [ ] Claude recalled hero colors in new session without prompting (Screenshot 5)
 - [ ] Claude refused JavaScript — memory rule enforced (Screenshot 6)
-- [ ] All 6 screenshots captured and in Google Doc
+- [ ] All 6 screenshots captured and updated in GitHub folder
 
----
-
-## 13. Final Submission
-
-Submit your assignment using this google form.

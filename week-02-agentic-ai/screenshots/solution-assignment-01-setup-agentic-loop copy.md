@@ -26,7 +26,6 @@ Every DevOps engineer working with agentic AI starts the same way — setting up
 ## 4. Learning Outcomes
 
 - Install and authenticate Claude Code CLI
-- Set up the VS Code Claude Code extension
 - Fork and clone the course starter repository
 - Observe the three phases of the Agentic Loop: Gather, Act, Verify
 - Understand how Claude Code differs from Claude chat
@@ -34,8 +33,6 @@ Every DevOps engineer working with agentic AI starts the same way — setting up
 ---
 
 ## 5. Important Instructions (Global Rules)
-
-Follow the Assignment Submission Guidelines — Click here
 
 **Key Rules:**
 - Full name must be visible in required screenshots
@@ -49,9 +46,9 @@ Follow the Assignment Submission Guidelines — Click here
 ## 6. Prerequisites
 
 - Node.js and npm installed (`node --version` works)
-- Git installed and configured
+- Git installed and configured (Verify using `git --version`)
 - GitHub account
-- VS Code installed
+- VS Code installed (Vrify using `code --version`)
 - Claude subscription (Pro plan minimum)
 
 ---
@@ -83,9 +80,14 @@ claude
 
 **Screenshots Required:**
 - Screenshot 1 — Terminal showing `claude --version` with the version number visible
+<<<<<<<< HEAD:week-02-agentic-ai/screenshots/solution-assignment-01-setup-agentic-loop copy.md
 ![Task 1](claude.jpg)
 - Screenshot 2 — Claude Code authenticated and showing the terminal prompt (your name visible)
 ![Task 2](claude1.jpg)
+========
+- Screenshot 2 — Claude Code authenticated and showing the terminal prompt 
+
+>>>>>>>> upstream/main:week-02-agentic-ai/assignment-briefs/assignment-01-setup-agentic-loop.md
 ---
 
 ### Task 2 — Fork and Clone the Starter Repository
@@ -93,7 +95,7 @@ claude
 **Goal:** Get your own copy of the course project onto your machine.
 
 **Steps:**
-1. Go to the course [repository link](https://github.com/pravinmishraaws/Ultimate-Agentic-DevOps-with-Claude-Code) in the Resources section of [Fork the reposiroty](https://www.udemy.com/course/ultimate-agentic-ai-devops-with-claude-code/learn/lecture/54808941#overview). 
+1. Open the [repository link](https://github.com/pravinmishraaws/Ultimate-Agentic-DevOps-with-Claude-Code) in your browser.
 2. Click **Fork → Create Fork**
 3. Clone your fork to your local machine
 4. Open the project in VS Code
@@ -105,7 +107,7 @@ cd REPO_NAME
 code .
 ```
 
-**Expected Output:** VS Code opens showing `index.html`, `style.css`, and the `images/` folder in the sidebar. No `.claude/` directory exists yet.
+**Expected Output:** VS Code opens showing `index.html`, `style.css`, and the `images/` folder in the sidebar. No `.claude/` directory exists yet. (Remove the .claude folder, CLAUDE.md, and .github folder if they exist.)
 
 **Screenshots Required:**
 - Screenshot 3 — VS Code with the project open, file tree visible showing `index.html`, `style.css`, `images/`
@@ -159,20 +161,33 @@ Your submission must include:
 ## 10. Solution Walkthrough
 
 A step-by-step solution and troubleshooting guide is available for reference:
-Full solution walkthrough → (LINK)
+Full solution walkthrough → [Click here](../assignment-solutions/assignment-01-setup-agentic-loop.md)
 
-## 11. Completion Checklist
+
+---
+
+## 11. LinkedIn Requirement
+
+Not required for this assignment.
+
+---
+
+## 12. Completion Checklist
 
 Before submission, verify:
+<<<<<<<< HEAD:week-02-agentic-ai/screenshots/solution-assignment-01-setup-agentic-loop copy.md
 - [x] Claude Code CLI installed and `claude --version` works
 - [x] Claude Code authenticated — opens without asking for login again
 - [x] VS Code extension installed and Claude Code panel visible
 - [x] Starter repo forked and cloned
 - [x] All 5 screenshots captured and added to your Google Doc
 - [x] GitHub repo URL included
+========
+- [ ] Claude Code CLI installed and `claude --version` works
+- [ ] Claude Code authenticated — opens without asking for login again
+- [ ] Starter repo forked and cloned
+- [ ] All 5 screenshots captured and added to your GitHub Repository file
+- [ ] GitHub repo URL included
+>>>>>>>> upstream/main:week-02-agentic-ai/assignment-briefs/assignment-01-setup-agentic-loop.md
 
 ---
-
-## 12. Final Submission
-
-Submit your assignment using this google form. 

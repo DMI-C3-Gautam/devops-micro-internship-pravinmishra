@@ -36,10 +36,13 @@ No senior engineer on a real team does everything themselves. Security reviews, 
 ## 5. Important Instructions (Global Rules)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Follow the Assignment Submission Guidelines — Click here
 
 =======
 >>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
+=======
+>>>>>>> upstream/main
 **Key Rules:**
 - Full name must be visible in required screenshots
 - Do not expose sensitive information (keys, passwords, account IDs)
@@ -93,19 +96,27 @@ mkdir -p .claude/agents
 2. Open `cost-optimizer.md` — note the `tools` and `model` fields
 3. Open `tf-writer.md` — note the `tools` and `model` fields
 <<<<<<< HEAD
+<<<<<<< HEAD
 4. In your Google Doc, write a short answer (2–3 sentences each) to these 3 questions:
 =======
 4. Write a short answer (2–3 sentences each) to these 3 questions:
 >>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
+=======
+4. Write a short answer (2–3 sentences each) to these 3 questions:
+>>>>>>> upstream/main
    - Why does the cost optimizer use Haiku instead of Sonnet?
    - Why does the security auditor NOT have Write in its tools list?
    - Why does the tf-writer use `inherit` instead of a specific model?
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 **Expected Output:** 3 written answers in your Google Doc showing you understand the design decisions behind each agent.
 =======
 **Expected Output:** 3 written answers in your GitHub Repository folder showing you understand the design decisions behind each agent.
 >>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
+=======
+**Expected Output:** 3 written answers in your GitHub Repository folder showing you understand the design decisions behind each agent.
+>>>>>>> upstream/main
 
 **Screenshots Required:**
 - Screenshot 2 — `security-auditor.md` frontmatter showing model and tools configuration
@@ -201,6 +212,7 @@ Before submission, verify:
 - [ ] Agents committed and visible in GitHub repo
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 
 ## 13. Final Submission
@@ -208,3 +220,5 @@ Before submission, verify:
 Submit your assignment using this google form.
 =======
 >>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
+=======
+>>>>>>> upstream/main

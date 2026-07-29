@@ -49,10 +49,13 @@ By completing this assignment, you will:
 ## 5. Important Instructions
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Follow the Assignment Submission Guidelines.
 
 =======
 >>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
+=======
+>>>>>>> upstream/main
 **Key Rules:**
 
 * Write in your own words
@@ -84,10 +87,14 @@ Before starting this assignment, you should have completed the Week 2 assignment
 **Goal:** Write a reflection blog about what you learned in Week 2 of the DevOps Micro Internship.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 You can write your blog in any of the following formats:
 =======
 You can write your blog in any of the following platforms:
 >>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
+=======
+You can write your blog in any of the following platforms:
+>>>>>>> upstream/main
 
 * Hashnode blog
 * Medium article
@@ -109,10 +116,13 @@ Your reflection must include the following sections.
 #### 1. Biggest technical insight I got this week
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Add your answer here.
 
 =======
 >>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
+=======
+>>>>>>> upstream/main
 Write about the biggest thing you understood this week.
 For example, you can write about:
 
@@ -130,10 +140,13 @@ For example, you can write about:
 #### 2. Biggest insight I got about myself this week
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Add your answer here.
 
 =======
 >>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
+=======
+>>>>>>> upstream/main
 Write about what you noticed about your own learning style.
 For example:
 
@@ -148,10 +161,13 @@ For example:
 #### 3. My biggest weakness or loop I noticed
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Add your answer here.
 
 =======
 >>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
+=======
+>>>>>>> upstream/main
 Write honestly about one repeated challenge.
 For example:
 
@@ -167,10 +183,13 @@ For example:
 #### 4. One system I will implement from this week
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Add your answer here.
 
 =======
 >>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
+=======
+>>>>>>> upstream/main
 Write one exact habit you will implement going forward.
 
 Your answer must include:
@@ -188,10 +207,13 @@ Example:
 #### 5. What I learned about Agentic AI and DevOps
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Add your answer here.
 
 =======
 >>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
+=======
+>>>>>>> upstream/main
 Explain how your understanding of DevOps changed after using Agentic AI tools.
 
 You may include points like:
@@ -208,10 +230,13 @@ You may include points like:
 #### 6. My Week 2 highlight
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Add your answer here.
 
 =======
 >>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
+=======
+>>>>>>> upstream/main
 Write about one moment you are proud of.
 
 Examples:
@@ -254,6 +279,7 @@ Use this line in your post:
 P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Suggested hashtags:
 
 #DMIProgram #AgenticAI #ClaudeCode #DevOps #LearningInPublic
@@ -262,11 +288,17 @@ Hashtags:
 
 #DMIByPravinMishra #AgenticAI #ClaudeCode #DevOps #LearningInPublic
 >>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
+=======
+Hashtags:
+
+#DMIByPravinMishra #AgenticAI #ClaudeCode #DevOps #LearningInPublic
+>>>>>>> upstream/main
 
 ---
 
 ## 11. Submission Instructions
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 Submit only a Google Doc link.
 
@@ -281,6 +313,9 @@ Make sure link sharing is enabled before submission.
 =======
 Submit the GitHub Repo Link. 
 >>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
+=======
+Submit the GitHub Repo Link. 
+>>>>>>> upstream/main
 
 ---
 
@@ -293,15 +328,20 @@ Before submission, verify:
 * [ ] Reflection is at least 300 words
 * [ ] All 6 required sections are answered
 <<<<<<< HEAD
+<<<<<<< HEAD
 * [ ] At least 2 Week 2 technical topics are mentioned
 =======
 * [ ] At least two Week 2 technical topics are mentioned
 >>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
+=======
+* [ ] At least two Week 2 technical topics are mentioned
+>>>>>>> upstream/main
 * [ ] One exact habit/system is included
 * [ ] LinkedIn post is created
 * [ ] Required P.S. line is included in the LinkedIn post
 * [ ] LinkedIn post URL is added
 * [ ] Screenshot of LinkedIn post is added
+<<<<<<< HEAD
 <<<<<<< HEAD
 * [ ] Google Doc link sharing is enabled
 =======
@@ -312,3 +352,5 @@ Before submission, verify:
 ## 13. Final Submission
 
 Submit your assignment using the Google Form provided in the course.
+=======
+>>>>>>> upstream/main

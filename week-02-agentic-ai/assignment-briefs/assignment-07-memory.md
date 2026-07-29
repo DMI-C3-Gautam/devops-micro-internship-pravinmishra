@@ -36,10 +36,13 @@ Every time you open a new Claude Code session, Claude starts completely fresh �
 ## 5. Important Instructions (Global Rules)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Follow the Assignment Submission Guidelines — Click here
 
 =======
 >>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
+=======
+>>>>>>> upstream/main
 **Key Rules:**
 - Full name must be visible in required screenshots
 - Do not expose sensitive information (keys, passwords, account IDs)
@@ -171,6 +174,7 @@ Complete all tasks in sequence.
 Your submission must include:
 - All 6 required screenshots
 - Your GitHub repo URL
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 Submit only a Google Doc link.
@@ -178,6 +182,9 @@ Follow the Assignment Submission Guidelines — (LINK)
 
 =======
 >>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
+=======
+- 
+>>>>>>> upstream/main
 ---
 
 ## 10. Solution Walkthrough
@@ -210,6 +217,7 @@ Before submission, verify:
 - [ ] Claude recalled hero colors in new session without prompting (Screenshot 5)
 - [ ] Claude refused JavaScript — memory rule enforced (Screenshot 6)
 <<<<<<< HEAD
+<<<<<<< HEAD
 - [ ] All 6 screenshots captured and in Google Doc
 
 ---
@@ -220,3 +228,7 @@ Submit your assignment using this google form.
 =======
 - [ ] All 6 screenshots captured and updated in GitHub folder
 >>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
+=======
+- [ ] All 6 screenshots captured and updated in GitHub folder
+
+>>>>>>> upstream/main

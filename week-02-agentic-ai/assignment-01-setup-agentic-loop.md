@@ -1,61 +1,37 @@
-# Week 04 — <!-- Topic Name -->
+# Assignment 1 — Your First Agentic Session
 
-## Assignment Overview
-
-<!-- One line describing what this week covered -->
+Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
 
 ---
 
-## Task 1: Install Claude Code
+## Purpose
 
-**Task:** Install the Claude Code CLI globally and authenticate with your Anthropic account.
-
-**My Answer:**
-
-<!-- Write your answer here -->
-
-**Screenshot:**
-
-![Task 1](./screenshots/claude.jpg)
-![Task 2](./screenshots/claude1.jpg)
 In this assignment, you will set up your local development environment for Agentic AI using Claude Code. You will install and authenticate Claude Code CLI, fork and clone the starter repository, and observe how the Agentic Loop (Gather → Act → Verify) works in practice.
 
 ---
 
-## Task 2: Fork and Clone the Starter Repository
+# Task 1 — Install Claude Code
 
-**Task:** Get your own copy of the course project onto your machine.
+## Goal
 
-**My Answer:**
+Install the Claude Code CLI globally and authenticate it using your Anthropic account.
 
-<!-- Write your answer here -->
+### Evidence
 
-**Screenshot:**
 #### Screenshot 1 — Terminal showing `claude --version` with the version number visible
 
-![Task 3](./screenshots/repo.jpg)
+Add your screenshot here.
 
 ---
 
-## Task 3: Observe the Agentic Loop
 #### Screenshot 2 — Claude Code authenticated and showing the terminal prompt (your name visible)
 
-**Task:** Watch Claude Code work through Gather → Act → Verify on two real tasks.
-
-**My Answer:**
-
-<!-- Write your answer here -->
-
-**Screenshot:**
-
-![Task 4](./screenshots/screenshot4.jpg)
-![Task 5](./screenshots/screenshot5.jpg)
+Add your screenshot here.
 
 ---
 
-## Task 4: LinkedIn Post
+# Task 2 — Fork and Clone the Starter Repository
 
-**Post:** <!-- Paste your LinkedIn post URL here -->
 ## Goal
 
 Fork the provided GitHub repository, clone it to your local machine, and open it in VS Code.
@@ -68,17 +44,10 @@ Add your screenshot here.
 
 ---
 
-## Key Learnings
+# Task 3 — Observe the Agentic Loop
 
-<!-- 3-5 bullet points on what you learned this week -->
+## Goal
 
-- set up claude
-- how to use claude
-- configuration 
-
----
-
-*Part of the [DevOps Micro Internship with Agentic AI](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) by Pravin Mishra — Join: https://discord.pravinmishra.com/*
 Interact with Claude Code and observe how it performs the Agentic Loop (Gather → Act → Verify) while answering project-related questions.
 
 ### Evidence

@@ -34,8 +34,6 @@ On real engineering teams, every new team member reads the onboarding doc before
 
 ## 5. Important Instructions (Global Rules)
 
-Follow the Assignment Submission Guidelines — Click here
-
 **Key Rules:**
 - Full name must be visible in required screenshots
 - Do not expose sensitive information (keys, passwords, account IDs)
@@ -65,7 +63,7 @@ Each task must be completed sequentially.
 
 **Steps:**
 1. Open Claude Code in your project
-2. Confirm there is no CLAUDE.md file (the project should only have `index.html`, `style.css`, `images/`)
+2. Confirm there is no CLAUDE.md file (the project should only have `index.html`, `style.css`, `images/`, `README.MD`, `privacy.html`, `terms.html`)
 3. Ask this exact question: `"What is this project and how should I deploy it?"`
 4. Screenshot the response — it will be generic and vague
 
@@ -74,14 +72,19 @@ Each task must be completed sequentially.
 What is this project and how should I deploy it?
 ```
 
-**Expected Output:** Claude gives a generic answer. It can see HTML and CSS but has no idea about S3, CloudFront, or Terraform.
+**Expected Output:** Claude gives a generic answer based only on the existing project files. It may describe the project as a static HTML/CSS website and suggest common deployment options.
 
 **Screenshots Required:**
+<<<<<<<< HEAD:week-02-agentic-ai/screenshots/solution-assignment-02-claude-md.md
 - Screenshot 1 — Claude's vague response to the question (no CLAUDE.md in place)
 ![Task 1](screenshot21.jpg)
+========
+- Screenshot 1 — Claude’s generic response before CLAUDE.md exists (project contains only `index.html`, `style.css`, `images/`, `README.MD`, `privacy.html`, `terms.html`)
+
+>>>>>>>> upstream/main:week-02-agentic-ai/assignment-briefs/assignment-02-claude-md.md
 ---
 
-### Task 2 — Generate the First Draft with /init
+### Task 2 — Generate an initial CLAUDE.md using /init and review the auto-generated content in VS Code.
 
 **Goal:** Use the built-in `/init` command to create an auto-generated CLAUDE.md.
 
@@ -134,7 +137,7 @@ What is this project and how should I deploy it?
 
 **Steps:**
 1. Start a **new Claude Code session** — close the current terminal and open a fresh one
-2. Ask: `"What is this project and how should I deploy it?"` — Claude should now mention S3, CloudFront, and Terraform
+2. Ask: `"What is this project and how should I deploy it?"` — Claude should now mention S3, CloudFront, and Terraform clearly.
 3. Then ask: `"Add a React component to the homepage"` — Claude should push back because of the No JavaScript rule
 4. Screenshot both responses
 
@@ -149,10 +152,53 @@ Add a React component to the homepage.
 - Test 2: Claude refuses or warns — citing the "No JavaScript" convention from CLAUDE.md
 
 **Screenshots Required:**
+<<<<<<<< HEAD:week-02-agentic-ai/screenshots/solution-assignment-02-claude-md.md
 - Screenshot 4 — Claude's specific, detailed answer after reading CLAUDE.md
 - Screenshot 5 — Claude pushing back on the React request, citing the convention
 ![Task 4](screenshot24.jpg)
 ![Task 5](screenshot25.jpg)
+========
+- Screenshot 4 — Claude's specific, detailed answer after reading CLAUDE.md (Claude mentioning S3, CloudFront and Terraform)
+- Screenshot 5 — Claude refusing or warning against adding React because of the "No JavaScript" convention defined in CLAUDE.md
+
+---
+
+### Task 5 — Commit and push your changes to your fork in GitHub
+
+**Goal:** Commit the `CLAUDE.md` file and push it to your GitHub fork so the project instructions are version-controlled.
+
+**Steps:**
+
+1. Check the Git status to verify that `CLAUDE.md` has been created or modified
+
+2. Stage the changes (`git add .`)
+
+3. Commit the changes with a meaningful commit message
+
+4. Push the commit to your GitHub fork
+
+5. Open your GitHub repository in the browser and verify that `CLAUDE.md` is visible in the repository root
+
+
+**Commands (Terminal):**
+
+```bash
+
+git status
+git add CLAUDE.md
+git commit -m "Add project-specific CLAUDE.md"
+git push origin main
+
+```
+
+**Expected Output:** The `CLAUDE.md` file is committed, pushed to your GitHub fork, and visible in the repository.
+
+
+**Screenshots Required:**
+
+- Screenshot 6 — `CLAUDE.md` visible in your GitHub repository after pushing the commit
+
+>>>>>>>> upstream/main:week-02-agentic-ai/assignment-briefs/assignment-02-claude-md.md
 ---
 
 ## 8. Industry Insight
@@ -166,18 +212,19 @@ The CLAUDE.md is where the engineer's knowledge becomes permanent. Every line yo
 Complete all tasks in sequence.
 
 Your submission must include:
-- All 5 required screenshots
-- Your GitHub repo URL (CLAUDE.md should be committed)
-
-Submit only a Google Doc link.
-Follow the Assignment Submission Guidelines — (LINK)
+- All 6 required screenshots
+- Your GitHub repo URL (`CLAUDE.md` must be committed and pushed)
 
 ---
 
 ## 10. Solution Walkthrough
 
 A step-by-step solution and troubleshooting guide is available for reference:
+<<<<<<<< HEAD:week-02-agentic-ai/screenshots/solution-assignment-02-claude-md.md
 Full solution walkthrough → [LINK](https://github.com/DMI-C3-Gautam/Ultimate-Agentic-DevOps-with-Claude-Code.git)
+========
+Full solution walkthrough → [Click here](../assignment-solutions/assignment-02-claude-md.md)
+>>>>>>>> upstream/main:week-02-agentic-ai/assignment-briefs/assignment-02-claude-md.md
 
 ---
 
@@ -187,18 +234,26 @@ Not required for this assignment.
 
 ---
 
-## 12. Completion Checklist
+### 12. Completion Checklist
 
 Before submission, verify:
+<<<<<<<< HEAD:week-02-agentic-ai/screenshots/solution-assignment-02-claude-md.md
 - [x] Screenshot 1 shows a generic Claude response (no CLAUDE.md)
 - [x] Screenshot 2 shows the auto-generated `/init` output
 - [x] Screenshot 3 shows all 5 sections in your customized CLAUDE.md
 - [x] Screenshot 4 shows Claude mentioning S3, CloudFront, and Terraform
 - [x] Screenshot 5 shows Claude refusing the React request
 - [x] CLAUDE.md is committed and visible in your GitHub repo
+========
+
+[ ] Screenshot 1 shows a generic Claude response (no CLAUDE.md)<br>
+[ ] Screenshot 2 shows the auto-generated `/init` output <br>
+[ ] Screenshot 3 shows all 5 sections in your customized CLAUDE.md <br>
+[ ] Screenshot 4 shows Claude mentioning S3, CloudFront, and Terraform <br>
+[ ] Screenshot 5 shows Claude refusing the React request <br>
+[ ] Screenshot 6 shows `CLAUDE.md` committed and visible in your GitHub repository <br>
+[ ] GitHub repository URL is included in the submission <br>
+>>>>>>>> upstream/main:week-02-agentic-ai/assignment-briefs/assignment-02-claude-md.md
 
 ---
 
-## 13. Final Submission
-
-Submit your assignment using this google form.

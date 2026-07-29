@@ -36,12 +36,15 @@ Every DevOps engineer working with agentic AI starts the same way — setting up
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Follow the Assignment Submission Guidelines — Click here
 
 =======
 >>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
 =======
 >>>>>>> 745d6aa (Updated week 2 assignment 1 template)
+=======
+>>>>>>> upstream/main
 **Key Rules:**
 - Full name must be visible in required screenshots
 - Do not expose sensitive information (keys, passwords, account IDs)
@@ -88,8 +91,19 @@ claude
 
 **Screenshots Required:**
 - Screenshot 1 — Terminal showing `claude --version` with the version number visible
+<<<<<<< HEAD
 - Screenshot 2 — Claude Code authenticated and showing the terminal prompt 
 
+=======
+<<<<<<<< HEAD:week-02-agentic-ai/screenshots/solution-assignment-01-setup-agentic-loop copy.md
+![Task 1](claude.jpg)
+- Screenshot 2 — Claude Code authenticated and showing the terminal prompt (your name visible)
+![Task 2](claude1.jpg)
+========
+- Screenshot 2 — Claude Code authenticated and showing the terminal prompt 
+
+>>>>>>>> upstream/main:week-02-agentic-ai/assignment-briefs/assignment-01-setup-agentic-loop.md
+>>>>>>> upstream/main
 ---
 
 ### Task 2 — Fork and Clone the Starter Repository
@@ -113,7 +127,11 @@ code .
 
 **Screenshots Required:**
 - Screenshot 3 — VS Code with the project open, file tree visible showing `index.html`, `style.css`, `images/`
+<<<<<<< HEAD
 
+=======
+![Task 3](repo.jpg)
+>>>>>>> upstream/main
 ---
 
 ### Task 3 — Observe the Agentic Loop
@@ -139,8 +157,14 @@ How many lines of CSS does this project have?
 
 **Screenshots Required:**
 - Screenshot 4 — Claude's response to the first question, showing it read the files (tool calls visible)
+<<<<<<< HEAD
 - Screenshot 5 — Claude's response to the second question, showing it ran a command and reported the line count
 
+=======
+![Task 4](screenshot4.jpg)
+- Screenshot 5 — Claude's response to the second question, showing it ran a command and reported the line count
+![Task 5](screenshot5.jpg)
+>>>>>>> upstream/main
 ---
 
 ## 8. Industry Insight
@@ -157,14 +181,19 @@ Your submission must include:
 - All 5 required screenshots
 - Your GitHub forked repository URL
 <<<<<<< HEAD
+<<<<<<< HEAD
 [forked link](https://github.com/DMI-C3-Gautam/Ultimate-Agentic-DevOps-with-Claude-Code)
 =======
 
 >>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
+=======
+[forked link](https://github.com/DMI-C3-Gautam/Ultimate-Agentic-DevOps-with-Claude-Code)
+>>>>>>> upstream/main
 ---
 
 ## 10. Solution Walkthrough
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 A step-by-step solution and troubleshooting guide is available for reference:
@@ -197,6 +226,11 @@ A step-by-step solution and troubleshooting guide is available for reference:
 Full solution walkthrough → [Click here](../assignment-solutions/assignment-01-setup-agentic-loop.md)
 
 >>>>>>> 725c54d (Updated assignment solution- week 02 assignment 02)
+=======
+A step-by-step solution and troubleshooting guide is available for reference:
+Full solution walkthrough → [Click here](../assignment-solutions/assignment-01-setup-agentic-loop.md)
+
+>>>>>>> upstream/main
 
 ---
 
@@ -209,11 +243,28 @@ Not required for this assignment.
 ## 12. Completion Checklist
 
 Before submission, verify:
+<<<<<<< HEAD
+=======
+<<<<<<<< HEAD:week-02-agentic-ai/screenshots/solution-assignment-01-setup-agentic-loop copy.md
+- [x] Claude Code CLI installed and `claude --version` works
+- [x] Claude Code authenticated — opens without asking for login again
+- [x] VS Code extension installed and Claude Code panel visible
+- [x] Starter repo forked and cloned
+- [x] All 5 screenshots captured and added to your Google Doc
+- [x] GitHub repo URL included
+========
+>>>>>>> upstream/main
 - [ ] Claude Code CLI installed and `claude --version` works
 - [ ] Claude Code authenticated — opens without asking for login again
 - [ ] Starter repo forked and cloned
 - [ ] All 5 screenshots captured and added to your GitHub Repository file
 - [ ] GitHub repo URL included
+<<<<<<< HEAD
 
 ---
 >>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
+=======
+>>>>>>>> upstream/main:week-02-agentic-ai/assignment-briefs/assignment-01-setup-agentic-loop.md
+
+---
+>>>>>>> upstream/main

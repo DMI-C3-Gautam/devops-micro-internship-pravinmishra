@@ -40,10 +40,13 @@ On real infrastructure teams, no engineer gives AI unrestricted access to produc
 ## 5. Important Instructions (Global Rules)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Follow the Assignment Submission Guidelines — Click here
 
 =======
 >>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
+=======
+>>>>>>> upstream/main
 **Key Rules:**
 - Full name must be visible in required screenshots
 - Do not expose sensitive information (keys, passwords, account IDs)
@@ -536,11 +539,14 @@ Your submission must include:
 - All 9 required screenshots
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Submit only a Google Doc link.
 Follow the Assignment Submission Guidelines — (LINK)
 
 =======
 >>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
+=======
+>>>>>>> upstream/main
 ---
 
 ## 10. Solution Walkthrough
@@ -576,6 +582,7 @@ Before submission, verify:
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## 13. Final Submission
 
 Submit your assignment using this google form.
@@ -584,3 +591,5 @@ Submit your assignment using this google form.
 >>>>>>> 841703c (Updated week 02 assignment guidelines and templates)
 =======
 >>>>>>> 5ce8ea8 (Assignment templates updated)
+=======
+>>>>>>> upstream/main
