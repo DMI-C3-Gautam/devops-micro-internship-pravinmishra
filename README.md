@@ -15,10 +15,10 @@
 | | |
 |---|---|
 | **Name** | Gautam  |
-| **LinkedIn** | [Gautam Kevadiya](www.linkedin.com/in/gautam-kevadiya-60369041b) |
-| **Location** | Helsinki, Finland |
-| **Background** | Consultant |
-| **Goal** | Learning perfect |
+| **LinkedIn** | [Gautam Kevadiya](www.linkedin.com/in/gautam-kevadiya-6036041b) |
+| **Location** | IN|
+| **Background** | IT |
+| **Goal** | working on projects |
 
 ---
 
