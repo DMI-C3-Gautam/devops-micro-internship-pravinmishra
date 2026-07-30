@@ -128,7 +128,7 @@ This is not a course. It is an internship-style program — real deployments, re
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/gautam-kevadiya-60369041b_1-share-7488579883686830082-EdXF/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGq1lGMBDWtwAQ0uOzeJs7ZS-bZ98jwpB_A | https://dmicohort3.blogspot.com/2026/07/week-0.html |
-| 01 | Success Mindset | ✅ Completed | ✅ Solved | — | https://dmicohort3.blogspot.com/2026/07/week-1.html |
+| 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/gautam-kevadiya-60369041b_w1-share-7488580689311760384-XIcP/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGq1lGMBDWtwAQ0uOzeJs7ZS-bZ98jwpB_A | https://dmicohort3.blogspot.com/2026/07/week-1.html |
 | 02 | Agentic AI with Claude Code | 🔄 In Progress | ⏳ Pending | — | https://dmicohort3.blogspot.com/2026/07/week-2.html |
 | 03 | Linux & Bash for DevOps | 🔄 In Progress | ⏳ Pending | — | https://dmicohort3.blogspot.com/2026/07/week-3.html |
 | 04 | Git & GitHub | 🔄 In Progress | ⏳ Pending | — | https://dmicohort3.blogspot.com/2026/07/week-4.html |
