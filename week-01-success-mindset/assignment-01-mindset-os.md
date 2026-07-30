@@ -144,7 +144,7 @@ If I see last past few years from now, I can say, it was amazing journey what I 
 
 Paste your link here:
 
-`Add your URL here`
+https://dmicohort3.blogspot.com/2026/07/week-1.html
 
 ---
 
@@ -176,7 +176,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+I felt sometimes guilt when I do not finish task because of less information. I tried to finish as soon as possible when I found solution. but sometimes takes time but I finish
 
 ---
 
