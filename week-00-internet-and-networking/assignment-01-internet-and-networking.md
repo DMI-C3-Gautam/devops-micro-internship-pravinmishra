@@ -217,17 +217,14 @@ Add the following credit note at the end of your post:
 
 Paste your LinkedIn post URL here:
 
-```text
-Add your URL here...
-```
-
+https://www.linkedin.com/posts/gautam-kevadiya-60369041b_1-share-7488579883686830082-EdXF/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGq1lGMBDWtwAQ0uOzeJs7ZS-bZ98jwpB_A
 ---
 
 ## LinkedIn Post Backup Copy
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+I have started DevOps jorney with DMI Cohort 3. It will be more learning, knowledge sharing.
 
 ---
 
@@ -270,3 +267,4 @@ It helps learners build strong DevOps foundations with hands-on experience.
 ---
 
 *This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track*
+
