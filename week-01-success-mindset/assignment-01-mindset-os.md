@@ -335,7 +335,7 @@ sleep after finished tasks
 
 Paste your LinkedIn post link here:
 
-`Add your URL here`
+(https://www.linkedin.com/posts/gautam-kevadiya-60369041b_w1-share-7488580689311760384-XIcP/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGq1lGMBDWtwAQ0uOzeJs7ZS-bZ98jwpB_A)
 
 ---
 
