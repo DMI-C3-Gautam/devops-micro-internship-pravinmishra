@@ -202,7 +202,7 @@ Choose books that improve:
 
 ## Book List
 
-1. Atomic habits 
+1. Atomic habits []
 2. Start with yourself 
 3. Hooked
 4. Resilience
@@ -211,7 +211,7 @@ Choose books that improve:
 7. The Power of Habit: Why We Do What We Do in Life and Business by Charles Duhigg
 8. The Mountain Is You by Brianna Wiest
 9. The Let Them Theory by Mel Robbins
-10. AThe Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever by Michael Bungay Stanier
+10. The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever by Michael Bungay Stanier
 
 ---
 
