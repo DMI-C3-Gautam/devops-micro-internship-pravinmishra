@@ -20,7 +20,7 @@ Verify the Ubuntu VM and Nginx are ready for deployment.
 
 #### Screenshot 0 — Output of `sudo systemctl status nginx --no-pager` showing Active (running)
 
-Add your screenshot here.
+![](./screenshots/as441.jpg)
 
 ---
 
@@ -34,7 +34,8 @@ Download and extract the portfolio website template.
 
 #### Screenshot 1 — Output of `ls -la` showing the extracted project folder
 
-Add your screenshot here.
+![](./screenshots/as442.jpg)
+
 
 ---
 
@@ -48,8 +49,7 @@ Update the website footer with your deployment details.
 
 #### Screenshot 2 — Nano editor open with the updated footer showing your Full Name, Group, Week, and Date
 
-Add your screenshot here.
-
+![](./screenshots/as442-1.jpg)
 ---
 
 # Task 3 — Deploy Website via Nginx
@@ -62,13 +62,15 @@ Deploy the portfolio website to the Nginx web root.
 
 #### Screenshot 3 — Output of `sudo nginx -t` showing configuration test successful
 
-Add your screenshot here.
+![](./screenshots/as443.jpg)
+
 
 ---
 
 #### Screenshot 4 — Output of `ls /var/www/html` showing deployed website files
 
-Add your screenshot here.
+![](./screenshots/as444.jpg)
+
 
 ---
 
@@ -82,13 +84,13 @@ Verify the deployed website is publicly accessible and the footer contains your 
 
 #### Screenshot 5 — Output of `curl ifconfig.me` showing the server's public IP address
 
-Add your screenshot here.
+![pwd](./screenshots/as445.jpg)
 
 ---
 
 #### Screenshot 6 — Browser showing the live website with your Full Name and deployment details in the footer
 
-Add your screenshot here.
+
 
 ---
 
@@ -102,14 +104,13 @@ Verify the deployed website and Nginx service are healthy.
 
 #### Screenshot 7 — Output of `systemctl is-enabled nginx`
 
-Add your screenshot here.
+![pwd](./screenshots/as447.jpg)
 
 ---
 
 #### Screenshot 8 — Output of `curl -I http://localhost` showing 200 OK
 
-Add your screenshot here.
-
+![pwd](./screenshots/as448.jpg)
 ---
 
 # LinkedIn Post (Mandatory)
@@ -120,7 +121,7 @@ Add your screenshot here.
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+
 
 ---
 
@@ -141,18 +142,18 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Screenshot 0: Nginx service status (active/running)
-- [ ] Screenshot 1: Website files downloaded and extracted
-- [ ] Screenshot 2: Footer updated with Full Name, Group, Week, and Date
-- [ ] Screenshot 3: Nginx configuration test successful
-- [ ] Screenshot 4: Website files deployed to /var/www/html
-- [ ] Screenshot 5: Public IP retrieved
-- [ ] Screenshot 6: Live website accessible in browser with footer details
-- [ ] Screenshot 7: Nginx enabled on boot
-- [ ] Screenshot 8: Local HTTP response returns 200 OK
+- [x] Screenshot 0: Nginx service status (active/running)
+- [x] Screenshot 1: Website files downloaded and extracted
+- [x] Screenshot 2: Footer updated with Full Name, Group, Week, and Date
+- [x] Screenshot 3: Nginx configuration test successful
+- [x] Screenshot 4: Website files deployed to /var/www/html
+- [x] Screenshot 5: Public IP retrieved
+- [] Screenshot 6: Live website accessible in browser with footer details
+- [x] Screenshot 7: Nginx enabled on boot
+- [x] Screenshot 8: Local HTTP response returns 200 OK
 - [ ] LinkedIn post published and URL submitted
 - [ ] Full Name visible in all required screenshots
-- [ ] No sensitive data exposed
+- [x] No sensitive data exposed
 
 ---
 
