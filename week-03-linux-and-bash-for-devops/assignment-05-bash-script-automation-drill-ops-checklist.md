@@ -20,14 +20,14 @@ Verify that Bash is available on your system and create a clean workspace for th
 
 #### Screenshot 1 — Output of `echo $SHELL` and `bash --version`
 
-Add your screenshot here.
+![](./screenshots/as511.jpg)
 
 ---
 
 #### Screenshot 2 — Output of `pwd` and `ls -lah` showing the scripts directory
 
-Add your screenshot here.
 
+![](./screenshots/as512.jpg)
 ---
 
 ### Notes
@@ -36,19 +36,22 @@ Answer the following in your own words:
 
 **1. What is Bash?**
 
-Add your answer here.
+Bash is a Unix shell and command language used to interact with the operating system. It lets you run commands, automate tasks with scripts, and control programs using variables, loops, and conditionals.
+
+
+
 
 ---
 
 **2. What is the difference between shell and Bash?**
 
-Add your answer here.
-
+A shell is a general command-line interface for interacting with an operating system. Bash is one specific shell implementation (the Bourne Again SHell) that follows shell conventions and adds its own scripting features.
 ---
 
 **3. Why is it important to confirm the Bash version before writing scripts?**
 
-Add your answer here.
+Because different Bash versions support different syntax and features, confirming the version helps avoid compatibility issues. It ensures your script will run correctly on the target system and prevents using commands or constructs that the installed Bash does not understand.
+
 
 ---
 
@@ -62,19 +65,17 @@ Create your first Bash script, make it executable, and run it from the terminal.
 
 #### Screenshot 1 — Content of `first-script.sh`
 
-Add your screenshot here.
-
+![](./screenshots/as513.jpg)
 ---
 
 #### Screenshot 2 — Output of `./first-script.sh`
 
-Add your screenshot here.
-
+![](./screenshots/as514.jpg)
 ---
 
 #### Screenshot 3 — Output of `ls -l first-script.sh` showing executable permission
 
-Add your screenshot here.
+![](./screenshots/as515.jpg)
 
 ---
 
@@ -84,20 +85,17 @@ Answer the following in your own words:
 
 **1. What is the purpose of `#!/bin/bash`?**
 
-Add your answer here.
-
+The line #!/bin/bash tells the system which interpreter to use to run the script. It ensures the script is executed with Bash rather than another shell or program.
 ---
 
 **2. Why do we use `chmod +x` before running a script?**
 
-Add your answer here.
-
+We use chmod +x to give the script execute permission. Without it, the system may not allow the file to run as a program even though the contents are valid shell code.
 ---
 
 **3. What is the difference between running a script using `./script.sh` and `bash script.sh`?**
 
-Add your answer here.
-
+Using ./script.sh runs the script as an executable file, so the kernel uses the shebang (#!/bin/bash) to choose the interpreter. Using bash script.sh explicitly starts Bash and runs the file with it, even if the file is not executable or has a different shebang.
 ---
 
 # Task 3 — Variables: User Information Script
