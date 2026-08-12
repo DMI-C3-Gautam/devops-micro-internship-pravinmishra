@@ -193,13 +193,13 @@ Use loops to repeat a task multiple times.
 
 #### Screenshot 1 — Content of `counter.sh`
 
-Add your screenshot here.
+![](./screenshots/as520.jpg)
 
 ---
 
 #### Screenshot 2 — Output of `./counter.sh`
 
-Add your screenshot here.
+![](./screenshots/as521.jpg)
 
 ---
 
@@ -207,27 +207,23 @@ Add your screenshot here.
 
 Answer the following in your own words:
 
-**1. What is a loop?**
+1. What is a loop?
 
-Add your answer here.
+A loop in programming is a control flow construct that allows a set of instructions to be executed repeatedly as long as a specified condition is true. 
 
----
+2. Why do we use loops in Bash scripting?
 
-**2. Why do we use loops in Bash scripting?**
+We use loops to automate repetitive tasks, making scripts shorter, more efficient, and easier to maintain.
 
-Add your answer here.
+3. How many times did the loop run in your script?
 
----
+The loop ran five times because it contained five values to iterate through
 
-**3. How many times did the loop run in your script?**
+4. What would you change if you wanted the loop to run 10 times?
 
-Add your answer here.
+I would add five more values to the list (for example, numbers 6 through 10), so the loop would iterate a total of 10 times.
 
----
 
-**4. What would you change if you wanted the loop to run 10 times?**
-
-Add your answer here.
 
 ---
 
