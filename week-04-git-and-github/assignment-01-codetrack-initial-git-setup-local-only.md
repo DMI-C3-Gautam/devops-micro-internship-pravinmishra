@@ -20,13 +20,13 @@ Create CodeTrack, enter the project directory, and initialize a Git repository.
 
 #### Screenshot 1 — Output of `git init`
 
-Add your screenshot here.
+![](./screenshots/as411.jpg)
 
 ---
 
 #### Screenshot 2 — Output of `ls -a` where `.git` is visible
 
-Add your screenshot here.
+![](./screenshots/as412.jpg)
 
 ---
 
@@ -40,7 +40,7 @@ Set the Git identity only for CodeTrack using repository-level local configurati
 
 #### Screenshot 3 — Output of `git config --local --list` showing your `user.name` and `user.email`
 
-Add your screenshot here.
+![](./screenshots/as413.jpg)
 
 ---
 
@@ -54,7 +54,7 @@ Set a global Git identity for all repositories on this machine and verify the co
 
 #### Screenshot 4 — Output of `git config --global --list` showing your `user.name` and `user.email`
 
-Add your screenshot here.
+![](./screenshots/as414.jpg)
 
 ---
 
@@ -68,12 +68,12 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] CodeTrack initialized as a Git repository
-- [ ] `.git` folder visible (Screenshot 2)
-- [ ] Local `user.name` and `user.email` configured and verified (Screenshot 3)
-- [ ] Global `user.name` and `user.email` configured and verified (Screenshot 4)
-- [ ] All four required screenshots included and readable
-- [ ] No sensitive data exposed
+- [x] CodeTrack initialized as a Git repository
+- [x] `.git` folder visible (Screenshot 2)
+- [x] Local `user.name` and `user.email` configured and verified (Screenshot 3)
+- [x] Global `user.name` and `user.email` configured and verified (Screenshot 4)
+- [x] All four required screenshots included and readable
+- [x] No sensitive data exposed
 
 ---
 
