@@ -6,49 +6,41 @@ Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
 
 ## Purpose
 
-In this assignment, you will set up Git correctly on your local machine before starting the CodeTrack project. You will create a local repository and configure your Git identity at both the repository level (local) and the machine level (global). This assignment is local only — you will not push anything to GitHub yet.
+In this assignment, you will create the CodeTrack project folder, initialize it as a local Git repository, and configure your Git identity at both repository and machine level.
 
 ---
 
-# Task 1 — Create the CodeTrack Project and Initialize Git
+# Task 1 — Create Project Directory and Initialize Git Repository
 
 ## Goal
 
-Create a `CodeTrack` project folder and initialize it as a Git repository.
+Create CodeTrack, enter the project directory, and initialize a Git repository.
 
 ### Evidence
 
-#### Screenshot 1 — Output of `git init` inside `CodeTrack` showing "Initialized empty Git repository"
+#### Screenshot 1 — Output of `git init`
 
-Add your screenshot here.
-
----
-
-#### Screenshot 2 — Output of `ls -a` showing the `.git` folder
-
-Add your screenshot here.
+![](./screenshots/as411.jpg)
 
 ---
 
-### Notes
+#### Screenshot 2 — Output of `ls -a` where `.git` is visible
 
-**1. What is the `.git` folder, and why does it matter?**
-
-Add your answer here.
+![](./screenshots/as412.jpg)
 
 ---
 
-# Task 2 — Configure Git Identity Locally (Repository-Only)
+# Task 2 — Configure Git Identity Locally (Repository-Specific)
 
 ## Goal
 
-Set your Git username and email for the `CodeTrack` repository only, using `git config --local`.
+Set the Git identity only for CodeTrack using repository-level local configuration.
 
 ### Evidence
 
 #### Screenshot 3 — Output of `git config --local --list` showing your `user.name` and `user.email`
 
-Add your screenshot here.
+![](./screenshots/as413.jpg)
 
 ---
 
@@ -56,52 +48,51 @@ Add your screenshot here.
 
 ## Goal
 
-Set a global Git username and email for this machine using `git config --global`. Note that CodeTrack's local settings still take priority over these.
+Set a global Git identity for all repositories on this machine and verify the configuration.
 
 ### Evidence
 
 #### Screenshot 4 — Output of `git config --global --list` showing your `user.name` and `user.email`
 
-Add your screenshot here.
+![](./screenshots/as414.jpg)
 
 ---
 
 # Submission Instructions
 
-- Add all required screenshots in your submission
-- Full Name must be visible in required screenshots
-- Do not expose passwords, access tokens, or private keys
+- Add all four required screenshots in the correct task sections
+- Use your real name and a valid email address, or a GitHub noreply email for privacy
+- Do not expose passwords, access tokens, private keys, or other sensitive information
 
 ---
 
 # Completion Checklist
 
-- [ ] `CodeTrack` folder created and initialized as a Git repository (Screenshots 1–2)
-- [ ] Explanation of the `.git` folder written in your own words
-- [ ] Local `user.name` and `user.email` configured and verified (Screenshot 3)
-- [ ] Global `user.name` and `user.email` configured and verified (Screenshot 4)
-- [ ] No sensitive data exposed
+- [x] CodeTrack initialized as a Git repository
+- [x] `.git` folder visible (Screenshot 2)
+- [x] Local `user.name` and `user.email` configured and verified (Screenshot 3)
+- [x] Global `user.name` and `user.email` configured and verified (Screenshot 4)
+- [x] All four required screenshots included and readable
+- [x] No sensitive data exposed
 
 ---
 
-## 📌 About DMI & CloudAdvisory
+# About DMI & CloudAdvisory
 
-DevOps Micro Internship (DMI) is a project-based DevOps program run by Pravin Mishra (The CloudAdvisory) focused on real-world execution, systems thinking, and career readiness.
+DevOps Micro Internship (DMI) is a project-based DevOps program run by Pravin Mishra (The CloudAdvisory), focused on real-world execution, systems thinking, and agentic AI workflows.
 
-It helps learners build strong DevOps foundations with hands-on experience.
-
----
-
-## 📌 Resources
-
-- 🌐 DMI Official Website: https://dmi.pravinmishra.com?utm_source=github&utm_medium=readme  
-- 🎓 University: https://university.pravinmishra.com?utm_source=github&utm_medium=readme  
-- 💬 Discord Community: https://discord.pravinmishra.com?utm_source=github&utm_medium=readme  
-- 📝 Blog: https://dmi.pravinmishra.com/blog?utm_source=github&utm_medium=readme  
-- ▶️ YouTube Playlist: https://www.youtube.com/playlist?list=PLFeSNDtI4Cho  
-- 🔗 Pravin Mishra (LinkedIn): https://www.linkedin.com/in/pravin-mishra-aws-trainer/  
-- 🏢 CloudAdvisory (LinkedIn): https://www.linkedin.com/company/thecloudadvisory/
+It helps learners build strong DevOps foundations through hands-on experience.
 
 ---
+
+# Resources
+
+* 🌐 DMI Official Website: [https://pravinmishra.com/dmi](https://pravinmishra.com/dmi)
+* 🎓 DevOps for Beginners (Udemy): [https://www.udemy.com/course/devops-for-beginners-docker-k8s-cloud-cicd-4-projects/](https://www.udemy.com/course/devops-for-beginners-docker-k8s-cloud-cicd-4-projects/)
+* 🎓 Agentic AI DevOps with Claude Code: [https://www.udemy.com/course/ultimate-agentic-ai-devops-with-claude-code/](https://www.udemy.com/course/ultimate-agentic-ai-devops-with-claude-code/)
+* 🎓 DevOps with Claude Code: Terraform, EKS, ArgoCD & Helm: [https://www.udemy.com/course/devops-with-claude-code-terraform-eks-argocd-helm/](https://www.udemy.com/course/devops-with-claude-code-terraform-eks-argocd-helm/)
+* ▶️ YouTube Playlist: [https://www.youtube.com/playlist?list=PLFeSNDtI4Cho](https://www.youtube.com/playlist?list=PLFeSNDtI4Cho)
+* 🔗 Pravin Mishra (LinkedIn): [https://www.linkedin.com/in/pravin-mishra-aws-trainer/](https://www.linkedin.com/in/pravin-mishra-aws-trainer/)
+* 🏢 CloudAdvisory (LinkedIn): [https://www.linkedin.com/company/thecloudadvisory/](https://www.linkedin.com/company/thecloudadvisory/)
 
 *This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track.*
