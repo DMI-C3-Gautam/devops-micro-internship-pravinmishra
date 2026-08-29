@@ -18,7 +18,7 @@
 | **LinkedIn** | [Gautam Kevadiya](www.linkedin.com/in/gautam-kevadiya-6036041b) |
 | **Location** | IN|
 | **Background** | IT |
-| **Goal** | working on projects |
+| **Goal** | Learning |
 
 ---
 
