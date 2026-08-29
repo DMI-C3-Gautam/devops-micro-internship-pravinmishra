@@ -35,7 +35,7 @@ Confirm your email address if Atlassian requests verification.
 #### Screenshot 2 (if applicable) — Confirmation screen after email verification, or the inbox showing the Atlassian verification email subject
 
 
-[](./screenshots/as512.jpg)
+![](./screenshots/as512.jpg)
 
 ---
 
@@ -57,7 +57,7 @@ Update your Jira profile with your full name, a job title or role (e.g. "Aspirin
 
 #### Screenshot 3 — Updated profile page showing your full name, role/title, and bio
 
-[](./screenshots/as513.jpg)
+![](./screenshots/as513.jpg)
 
 ---
 
@@ -71,13 +71,13 @@ Locate the project list and open a project's Board or Backlog, and view Project 
 
 #### Screenshot 4 — "View all projects" page showing at least one project
 
-[](./screenshots/as514.jpg)
+![](./screenshots/as514.jpg)
 
 ---
 
 #### Screenshot 5 — Opened project showing either the Board or Backlog screen
 
-[](./screenshots/as515.jpg)
+![](./screenshots/as515.jpg)
 
 ---
 
